@@ -12,7 +12,6 @@ This project demonstrates the visualization of pathfinding algorithms (BFS, DFS,
   - **A\* Search (with Manhattan heuristic)**
 - Maze displayed using `matplotlib`
 - Animated cell-by-cell exploration
-- Key press interaction to quit the animation
 - Logs:
   - Path length
   - Steps taken
